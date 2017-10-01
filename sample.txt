@@ -1,0 +1,6 @@
+WHILE { WhiLe } while wh}ile
+"Hola Mundo" while
+"comparar whiles:" 'WHILE' WHILE "WHILE"
+"comparar numeros:" 123.00 .023 123 . 12da3.123
+
+while }
